@@ -1,5 +1,5 @@
 app:
-        discount-rate: 0.1
+  discount-rate: 0.1
 services:
-	inventory-service:
-		url: http://localhost:8080
+  inventory-service:
+    url: http://localhost:8080
